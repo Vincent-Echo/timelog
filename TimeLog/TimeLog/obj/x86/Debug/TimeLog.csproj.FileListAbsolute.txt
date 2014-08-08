@@ -1,0 +1,7 @@
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\bin\Debug\TimeLog.exe
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\bin\Debug\TimeLog.pdb
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\obj\x86\Debug\TimeLog.Form1.resources
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\obj\x86\Debug\TimeLog.Properties.Resources.resources
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\obj\x86\Debug\TimeLog.csproj.GenerateResource.Cache
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\obj\x86\Debug\TimeLog.exe
+C:\Users\wxie\AppData\Local\Temporary Projects\TimeLog\obj\x86\Debug\TimeLog.pdb
